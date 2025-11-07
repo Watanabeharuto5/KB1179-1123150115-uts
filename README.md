@@ -4,16 +4,20 @@ Vibra ayu karisma - 1123150115
 
 cara menjalankan project nya:
 
-Langkah 1: Buka terminal di VS Code
-Langkah 2: Ketik cd nama_folder_project di terminal untuk masuk ke folder project kamu
-Langkah 3: Ketik flutter pub get untuk mendownload semua package yang dibutuhkan
-Langkah 4: Ketik flutter run untuk menjalankan project Flutternya
+Langkah 1: Buka terminal di VS Code<br>
+Langkah 2: Ketik cd nama_folder_project di terminal untuk masuk ke folder project kamu<br>
+Langkah 3: Ketik flutter pub get untuk mendownload semua package yang dibutuhkan<br>
+Langkah 4: Ketik flutter run untuk menjalankan project Flutternya<br>
+
+<img width="427" height="745" alt="Screenshot 2025-11-07 160214" src="https://github.com/user-attachments/assets/e60724d4-513a-4e57-9513-56b9373bd873" />
+<img width="434" height="756" alt="Screenshot 2025-11-07 160157" src="https://github.com/user-attachments/assets/d4c2862f-9a84-4d96-8703-61b65552b48b" />
+<img width="429" height="749" alt="Screenshot 2025-11-07 160243" src="https://github.com/user-attachments/assets/a3e58d9d-9604-4c5b-8875-80cb8454023c" />
+<img width="419" height="741" alt="Screenshot 2025-11-07 160235" src="https://github.com/user-attachments/assets/ee8efaca-9c8d-4a54-8d6b-24eea3f9704f" />
+
+
 A new Flutter project.
 
-<img width="1920" height="1080" alt="selamat datang 1" src="https://github.com/user-attachments/assets/62dd8faf-091d-4ab1-a202-e64a05a137cf" />
-<img width="1920" height="1080" alt="selamat datang 2" src="https://github.com/user-attachments/assets/0d2672bc-38b7-403c-a625-72fc76231ac6" />
-<img width="1920" height="1080" alt="selamat datang 3" src="https://github.com/user-attachments/assets/ea35f282-352e-4f84-8e93-80b65f592834" />
-<img width="1920" height="1080" alt="login" src="https://github.com/user-attachments/assets/f8f29621-3b7a-4be6-b4aa-5456cf190955" />
+
 
 
 
