@@ -29,3 +29,11 @@ class MySplashScreen extends StatelessWidget {
                   ),
             ),
            ),
+            //2. buat title welcome
+           Text('Selamat Datang',
+                  style: TextStyle(
+                      fontSize: 40,
+                      fontWeight: FontWeight.bold,
+                      color : const Color.fromARGB(255, 228, 173, 191)
+                    ),
+                  ),
