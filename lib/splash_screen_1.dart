@@ -37,3 +37,13 @@ class MySplashScreen extends StatelessWidget {
                       color : const Color.fromARGB(255, 228, 173, 191)
                     ),
                   ),
+                                  //3 buat subtitle
+                  SizedBox(height: 10,),
+                  Text('lihat keseruan semua tentang treasure\n yang bisa diakses dimana saja dan kapan saja',
+                    textAlign: TextAlign.center,
+                    style: TextStyle(
+                      fontSize: 15,
+                      fontWeight: FontWeight.normal,
+                      color: const Color.fromARGB(255, 228, 160, 155)
+                    ),
+                  ),
