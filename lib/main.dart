@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import '../screen/splash_screen_1.dart';
 
 void main() {
   runApp(MyApp());
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: "NIM : 1123150115, Vibra",
       theme: ThemeData(useMaterial3: true,colorScheme: ColorScheme.fromSeed(seedColor: Colors.pink),),
       debugShowCheckedModeBanner: false,
-    
+      home: MySplashScreen(),
     );
   }
 }
