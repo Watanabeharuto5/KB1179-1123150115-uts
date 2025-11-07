@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:latihan_uts_splash/screen/splash_screen_2.dart';
+
 
 
 class MySplashScreen extends StatelessWidget {
@@ -37,7 +37,7 @@ class MySplashScreen extends StatelessWidget {
                       color : const Color.fromARGB(255, 228, 173, 191)
                     ),
                   ),
-                                  //3 buat subtitle
+          //3 buat subtitle
                   SizedBox(height: 10,),
                   Text('lihat keseruan semua tentang treasure\n yang bisa diakses dimana saja dan kapan saja',
                     textAlign: TextAlign.center,
@@ -46,4 +46,38 @@ class MySplashScreen extends StatelessWidget {
                       fontWeight: FontWeight.normal,
                       color: const Color.fromARGB(255, 228, 160, 155)
                     ),
+                  ),
+                    //4. buat buletan kecil ada 3 melebar
+                  SizedBox(height: 30,),
+                  Row(
+                    mainAxisAlignment: MainAxisAlignment.center,
+                    children: [
+                      Container(
+                        width: 10,
+                        height: 10,
+                        decoration: BoxDecoration(
+                          shape: BoxShape.circle,
+                          color: const Color.fromARGB(255, 254, 189, 184)
+                        ),
+                      ),
+                      SizedBox(width: 10,),
+                      Container(
+                        width: 10,
+                        height: 10,
+                        decoration: BoxDecoration(
+                          shape: BoxShape.circle,
+                          color: Colors.grey
+                        ),
+                      ),
+                      SizedBox(width: 10,),
+                      Container(
+                        width: 10,
+                        height: 10,
+                        decoration: BoxDecoration(
+                          shape: BoxShape.circle,
+                          color: Colors.grey
+                        ),
+                      ),
+                      SizedBox(width: 10,),
+                    ],
                   ),
